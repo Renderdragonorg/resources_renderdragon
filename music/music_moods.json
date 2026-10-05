@@ -1,5 +1,23 @@
 [
   {
+    "filename": "073kizuna_-_Destinys_Union.mp3",
+    "moods": [
+      "triumphant",
+      "uplifting",
+      "emotional",
+      "hopeful"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "1000_Floors_-_99boba.mp3",
+    "moods": [
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "11_AM_-_Animal_Crossing_City_Folk_OST.mp3",
     "moods": [
       "cheerful",
@@ -59,7 +77,7 @@
     "source": "web search"
   },
   {
-    "filename": "9999999.mp3",
+    "filename": "9999999_-_Portal_2_OST.mp3",
     "moods": [
       "chaotic",
       "eerie",
@@ -79,14 +97,31 @@
     "source": "web search"
   },
   {
-    "filename": "AFTERLIFE_-_Undertale_Yellow_OST.mp3",
+    "filename": "a shattered illusion.mp3",
     "moods": [
-      "chaotic",
-      "intense",
-      "unsettling",
-      "desperate"
+      "dramatic",
+      "emotional",
+      "mysterious"
     ],
-    "source": "web search"
+    "source": "filename inference"
+  },
+  {
+    "filename": "A_Fools_Theme_-_Brian_Bolger.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "A_Musecore_audio_-_Deadlox.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "dynamic",
+      "expressive"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Able_Sisters_Extended.mp3",
@@ -99,12 +134,49 @@
     "source": "web search"
   },
   {
+    "filename": "action suspense 2.mp3",
+    "moods": [
+      "suspense",
+      "intense",
+      "dramatic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "action suspense.mp3",
+    "moods": [
+      "suspense",
+      "intense",
+      "dramatic"
+    ],
+    "source": "filename inference"
+  },
+  {
     "filename": "Adrenal_Vapor.mp3",
     "moods": [
       "simple",
       "bubbly",
       "nostalgic",
       "whimsical"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Adventurous_-_rjytofficial.mp3",
+    "moods": [
+      "adventure",
+      "inspiring",
+      "epic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "AFTERLIFE_-_Undertale_Yellow_OST.mp3",
+    "moods": [
+      "chaotic",
+      "intense",
+      "unsettling",
+      "desperate"
     ],
     "source": "web search"
   },
@@ -117,6 +189,16 @@
       "electronic"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Alpha_Mission_-_Jimena_Contreras.mp3",
+    "moods": [
+      "frantic",
+      "chaotic",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Androphonovania.mp3",
@@ -137,6 +219,104 @@
       "ominous"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Another_Elevator_Music_-_Deadlox.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Another_orchrestra_rock_song_1_1_-_Deadlox.mp3",
+    "moods": [
+      "calm",
+      "peaceful",
+      "slow"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Another_troll_face_edit_Deadlox_1.mp3",
+    "moods": [
+      "playful",
+      "fun",
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "apassionato orchestral dramatic music.mp3",
+    "moods": [
+      "classic",
+      "dramatic",
+      "epic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Apolllo_-_Patrick_Patrikios.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "at the speed of light.mp3",
+    "moods": [
+      "fast",
+      "energetic",
+      "adventure"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Atlantis_Rage_-_Jimena_Contreras.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "azali x arcerion - zephaniah.mp3",
+    "moods": [
+      "epic",
+      "intense"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "background music.mp3",
+    "moods": [
+      "ambient",
+      "calm",
+      "relaxing"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Battle_Against_an_Empire_-_rjytofficial.mp3",
+    "moods": [
+      "epic",
+      "fighting",
+      "dramatic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "battle of birds and pigs.mp3",
+    "moods": [
+      "fighting",
+      "fun",
+      "adventure"
+    ],
+    "source": "filename inference"
   },
   {
     "filename": "Battle_-_Battle_Mode_1_Vanilla.mp3",
@@ -179,6 +359,14 @@
     "source": "web search"
   },
   {
+    "filename": "Bay_Street_Billionaires_-_Squadda_B.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Believe_In_Him_-_rueckus.mp3",
     "moods": [
       "desperate",
@@ -187,6 +375,14 @@
       "dramatic"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Beside_Me_-_Patrick_Patrikios.mp3",
+    "moods": [
+      "energetic",
+      "driving"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "BfB_intro_theme.mp3",
@@ -207,6 +403,24 @@
       "hopeful"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Black_Mass_-_Brian_Bolger.mp3",
+    "moods": [
+      "dark",
+      "ominous",
+      "intense"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "blizzard peaks - sonic rush adventure.mp3",
+    "moods": [
+      "adventure",
+      "classic",
+      "energetic"
+    ],
+    "source": "filename inference"
   },
   {
     "filename": "Blood_Moon_-_Voxlblade_Remade_OST.mp3",
@@ -283,12 +497,28 @@
     "source": "web search"
   },
   {
-    "filename": "Break_Free.mp3",
+    "filename": "Bone_Dry_-_Telecasted.mp3",
     "moods": [
-      "uplifting",
-      "energetic",
-      "inspiring",
-      "triumphant"
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Boom_Bap_Flick_-_Quincas_Moreira.mp3",
+    "moods": [
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "botsbuildbots_Title_Screen_B_-_Portal_2_OST.mp3",
+    "moods": [
+      "chaotic",
+      "mechanical",
+      "whimsical",
+      "frantic"
     ],
     "source": "web search"
   },
@@ -320,6 +550,22 @@
     "source": "web search"
   },
   {
+    "filename": "Bridge_On_Fire_-_Zolister.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Broken_Ladder_-_Jeremy_Black.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Bubblaine_-_Super_Mario_Odyssey_OST.mp3",
     "moods": [
       "bright",
@@ -330,14 +576,20 @@
     "source": "web search"
   },
   {
-    "filename": "CORE_Extended.mp3",
+    "filename": "Buccaneers_March_-_Aakash_Gandhi.mp3",
     "moods": [
-      "atmospheric",
-      "mechanical",
-      "cold",
-      "intense"
+      "slow",
+      "calm"
     ],
-    "source": "web search"
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Burlesque_Heartache_-_RKVC.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Calm_Your_Nerves_-_Ivory.mp3",
@@ -349,6 +601,39 @@
     "source": "web search"
   },
   {
+    "filename": "camellia - the world revolving (camellia remix).mp3",
+    "moods": [
+      "intense",
+      "energetic",
+      "electronic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Caribbean_Hide__Seek_-_Carmen_Maria_and_Edu_Espinal.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "chalksnap_-_ivory.mp3",
+    "moods": [
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "challenger_-_Ivory_Soundtracks.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Champas_theme_Extended.mp3",
     "moods": [
       "epic",
@@ -357,6 +642,40 @@
       "powerful"
     ],
     "source": "filename inference"
+  },
+  {
+    "filename": "chaos construct (by azali).mp3",
+    "moods": [
+      "chaotic",
+      "intense",
+      "dark"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Chariots_of_War_-_Aakash_Gandhi.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "chased by fate.mp3",
+    "moods": [
+      "suspense",
+      "intense",
+      "dramatic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Chiapas_Marimba_-_Jimena_Contreras.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Cipher.mp3",
@@ -377,6 +696,14 @@
       "intense"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Claim_of_Thrones_-_RKVC.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Clock_Town_-_Day_1.mp3",
@@ -409,7 +736,16 @@
     "source": "web search"
   },
   {
-    "filename": "Colossus_OST_ver.mp3",
+    "filename": "clovek_-_ivorycello.mp3",
+    "moods": [
+      "mysterious",
+      "atmospheric",
+      "brooding"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Colossus_-_Minecraft_Story_Mode_OST.mp3",
     "moods": [
       "epic",
       "intense",
@@ -457,6 +793,35 @@
     "source": "web search"
   },
   {
+    "filename": "Contrition_Disposal_-_Zolister.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "CORE_Extended.mp3",
+    "moods": [
+      "atmospheric",
+      "mechanical",
+      "cold",
+      "intense"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "corneria.mp3",
+    "moods": [
+      "classic",
+      "adventure",
+      "upbeat"
+    ],
+    "source": "filename inference"
+  },
+  {
     "filename": "Creative_Exercise_Demo_-_Mario_Paint_OST.mp3",
     "moods": [
       "playful",
@@ -477,34 +842,20 @@
     "source": "web search"
   },
   {
-    "filename": "DBS_ost_Dystopian_Future_A.mp3",
+    "filename": "Danger_Snow_-_Dan_Henig.mp3",
     "moods": [
-      "dark",
-      "futuristic",
-      "tense",
-      "ominous"
+      "slow",
+      "calm"
     ],
-    "source": "web search"
+    "source": "local audio analysis"
   },
   {
-    "filename": "DBS_ost_Dystopian_Future_B.mp3",
+    "filename": "Dark_Alley_Deals_-_Aaron_Kenny.mp3",
     "moods": [
-      "dark",
-      "futuristic",
-      "tense",
-      "ominous"
+      "ambient",
+      "atmospheric"
     ],
-    "source": "web search"
-  },
-  {
-    "filename": "Dark_Choir_Music_-_RF.mp3",
-    "moods": [
-      "dark",
-      "ominous",
-      "haunting",
-      "gothic"
-    ],
-    "source": "web search"
+    "source": "local audio analysis"
   },
   {
     "filename": "Darkness_of_the_Unknown.mp3",
@@ -533,6 +884,88 @@
       "uplifting",
       "inspiring",
       "triumphant"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "DBS_ost_Dystopian_Future_A.mp3",
+    "moods": [
+      "dark",
+      "futuristic",
+      "tense",
+      "ominous"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "DBS_ost_Dystopian_Future_B.mp3",
+    "moods": [
+      "dark",
+      "futuristic",
+      "tense",
+      "ominous"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Dead_Wrong_-_Jeremy_Blake.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Deadlox_Jazz_Funky_Song.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Deadlox_Playing_Tuba.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Deadloxs_Piano_Song.mp3",
+    "moods": [
+      "frantic",
+      "chaotic",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Deep_in_the_Forest_-_rjytofficial.mp3",
+    "moods": [
+      "adventure",
+      "calm",
+      "mysterious"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "deer immaterial anbr adrian berenguer.mp3",
+    "moods": [
+      "calm",
+      "relaxing",
+      "ambient"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "defun_botsbuildbots__botsbuildbots.mp3",
+    "moods": [
+      "chaotic",
+      "mechanical",
+      "whimsical",
+      "frantic"
     ],
     "source": "web search"
   },
@@ -687,6 +1120,14 @@
     "source": "web search"
   },
   {
+    "filename": "Desert_Planet_-_Quincas_Moreira.mp3",
+    "moods": [
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Desperate_Assault.mp3",
     "moods": [
       "aggressive",
@@ -707,16 +1148,6 @@
     "source": "web search"
   },
   {
-    "filename": "Destinys_Union.mp3",
-    "moods": [
-      "triumphant",
-      "uplifting",
-      "emotional",
-      "hopeful"
-    ],
-    "source": "web search"
-  },
-  {
     "filename": "Destructor_A_remake_of_Lena_Raines_Creator.mp3",
     "moods": [
       "intense",
@@ -727,6 +1158,26 @@
     "source": "filename inference"
   },
   {
+    "filename": "Devils_Organ_-_Jimena_Contreras.mp3",
+    "moods": [
+      "frantic",
+      "chaotic",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Devious_Little_Smile_-_Godmode.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "dynamic",
+      "expressive"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Disappeared.mp3",
     "moods": [
       "haunting",
@@ -735,6 +1186,14 @@
       "uneasy"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Disco_Climax_-_An_Jone.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Dismiss.mp3",
@@ -765,6 +1224,14 @@
       "unsettling"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "DJ_B-Duke_-_B-Duke_Beatz.mp3",
+    "moods": [
+      "electronic",
+      "energetic"
+    ],
+    "source": "filename inference"
   },
   {
     "filename": "Dont_Do_It.mp3",
@@ -877,6 +1344,33 @@
     "source": "web search"
   },
   {
+    "filename": "dragon castle___makai symphony - dragon castle_ is under a creative commons (by-nc 3.0) license_ @makai-symphony   music powered by breakingcopyright_    • 🔥 epic battle music .mp3",
+    "moods": [
+      "epic",
+      "fighting",
+      "intense",
+      "orchestral"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "dramatic violin.mp3",
+    "moods": [
+      "dramatic",
+      "intense",
+      "emotional"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Dramatic_Series_Theme_-_Freedom_Trail_Studio.mp3",
+    "moods": [
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Dreiton.mp3",
     "moods": [
       "awe-inspiring",
@@ -907,6 +1401,60 @@
     "source": "web search"
   },
   {
+    "filename": "DROP_SONG_NUMBER_1_-_DEADLOX.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "DROP_SONG_NUMBER_2_-_DEADLOX.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "DROP_SONG_NUMBER_3_-_DEADLOX.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "DROP_SONG_NUMBER_4_-_DEADLOX.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "DROP_SONG_NUMBER_5_-_DEADLOX.mp3",
+    "moods": [
+      "energetic",
+      "driving",
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "DROP_SONG_NUMBER_6_-_DEADLOX.mp3",
+    "moods": [
+      "energetic",
+      "driving"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Dry_Hands.mp3",
     "moods": [
       "ambient",
@@ -917,14 +1465,12 @@
     "source": "web search"
   },
   {
-    "filename": "Duel_Hearts.mp3",
+    "filename": "Dude_-_Patrick_Patrikios.mp3",
     "moods": [
-      "passionate",
-      "confrontational",
-      "energetic",
-      "fiery"
+      "ambient",
+      "atmospheric"
     ],
-    "source": "web search"
+    "source": "local audio analysis"
   },
   {
     "filename": "Eisoptrophobia.mp3",
@@ -937,6 +1483,14 @@
     "source": "web search"
   },
   {
+    "filename": "Elevator_Music_-_Deadlox.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Empyrea_-_Ivory.mp3",
     "moods": [
       "ethereal",
@@ -947,6 +1501,15 @@
     "source": "web search"
   },
   {
+    "filename": "End_of_a_Long_Journey_-_rjytofficial.mp3",
+    "moods": [
+      "adventure",
+      "emotional",
+      "reflective"
+    ],
+    "source": "filename inference"
+  },
+  {
     "filename": "Enemy_Approaching_Extended.mp3",
     "moods": [
       "urgent",
@@ -955,6 +1518,14 @@
       "playful"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Epic_Battle_Speech_-_Wayne_Jones.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Escape_Array_-_Half-Life_2_OST.mp3",
@@ -985,14 +1556,12 @@
     "source": "web search"
   },
   {
-    "filename": "FORGETTABLE_SMILE_-_Oricade.mp3",
+    "filename": "Eyes_of_Glory_-_Aakash_Gandhi.mp3",
     "moods": [
-      "melancholic",
-      "reflective",
-      "bittersweet",
-      "emotional"
+      "slow",
+      "calm"
     ],
-    "source": "web search"
+    "source": "local audio analysis"
   },
   {
     "filename": "Fallen_Down_-_Undertale_OST.mp3",
@@ -1035,6 +1604,22 @@
     "source": "web search"
   },
   {
+    "filename": "Fiesta_Jarocha_-_Jimena_Contreras.mp3",
+    "moods": [
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Final_Boss_-_Myuu.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Final_Encounter_-_Undertale_Yellow_OST.mp3",
     "moods": [
       "solemn",
@@ -1075,6 +1660,16 @@
     "source": "web search"
   },
   {
+    "filename": "FORGETTABLE_SMILE_-_Oricade.mp3",
+    "moods": [
+      "melancholic",
+      "reflective",
+      "bittersweet",
+      "emotional"
+    ],
+    "source": "web search"
+  },
+  {
     "filename": "Forlorn_-_Undertale_Yellow_OST.mp3",
     "moods": [
       "sorrowful",
@@ -1105,6 +1700,22 @@
     "source": "web search"
   },
   {
+    "filename": "Fun_House_Trap_-_Sir_Cubworth.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Future_Glider_-_Brian_Bolger.mp3",
+    "moods": [
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Getting_Caught_-_ivorycello.mp3",
     "moods": [
       "panicked",
@@ -1133,6 +1744,22 @@
       "wacky"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Goddess_of_the_Sea_-_Jimena_Contreras.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Good_Days_-_Yung_Logos.mp3",
+    "moods": [
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Gradual_Liquidation_Title_Screen.mp3",
@@ -1184,6 +1811,25 @@
     "source": "web search"
   },
   {
+    "filename": "Hannon_-_Jeremy_Black.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Happy_Energetic_Boogie_Fun_-_S-DKG.mp3",
+    "moods": [
+      "happy",
+      "energetic",
+      "fun",
+      "playful",
+      "bouncy"
+    ],
+    "source": "web search"
+  },
+  {
     "filename": "Harbinger_of_Chaos_MKs_Theme.mp3",
     "moods": [
       "chaotic",
@@ -1230,6 +1876,16 @@
     "source": "web search"
   },
   {
+    "filename": "Haunted_Mansion_-_rjytofficial.mp3",
+    "moods": [
+      "spooky",
+      "mysterious",
+      "eerie",
+      "adventure"
+    ],
+    "source": "web search"
+  },
+  {
     "filename": "Haunted_Panels.mp3",
     "moods": [
       "eerie",
@@ -1248,12 +1904,38 @@
     "source": "web search"
   },
   {
+    "filename": "Hersheau_-_Zolister.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Hes_the_Iblis_Trigger.mp3",
     "moods": [
       "urgent",
       "dramatic",
       "alarming",
       "revelatory"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Higher_Octane_-_Vans_in_Japan.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "hope_instilled_-_Ivory.mp3",
+    "moods": [
+      "hopeful",
+      "uplifting",
+      "inspiring",
+      "bright"
     ],
     "source": "web search"
   },
@@ -1298,6 +1980,22 @@
     "source": "web search"
   },
   {
+    "filename": "Hypnosis_-_Godmode.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "I_cooked_-_deadlox.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Iggy_Death_Theme.mp3",
     "moods": [
       "sad",
@@ -1306,6 +2004,14 @@
       "poignant"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Imperial_Forces_-_Aaron_Kenny.mp3",
+    "moods": [
+      "dynamic",
+      "expressive"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Infinites_theme.mp3",
@@ -1326,6 +2032,33 @@
       "intense"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "infraction - atlas.mp3",
+    "moods": [
+      "epic",
+      "cinematic",
+      "intense"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Introspective_Taal_-_Aakash_Gandhi.mp3",
+    "moods": [
+      "energetic",
+      "driving"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Invisible_Enemy_-_Jeremy_Black.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Its_Out_-_Ivory.mp3",
@@ -1368,6 +2101,40 @@
     "source": "web search"
   },
   {
+    "filename": "Johnny_Vespa_-_Take_It_Easy.mp3",
+    "moods": [
+      "classic",
+      "energetic",
+      "adventure"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Journey_Through_the_Woods_-_rjytofficial.mp3",
+    "moods": [
+      "adventure",
+      "calm",
+      "mysterious"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Jungle_-_Aakash_Gandhi.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Just_Us_League_-_RKVC.mp3",
+    "moods": [
+      "energetic",
+      "driving"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Justice_-_Undertale_Yellow_OST.mp3",
     "moods": [
       "solemn",
@@ -1376,6 +2143,15 @@
       "determined"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "king pig and his manic minions.mp3",
+    "moods": [
+      "intense",
+      "fun",
+      "adventure"
+    ],
+    "source": "filename inference"
   },
   {
     "filename": "Knights_Guild_-_Voxlblade_Remade_OST.mp3",
@@ -1388,33 +2164,12 @@
     "source": "web search"
   },
   {
-    "filename": "LEminenza_Oscura_I.mp3",
+    "filename": "Know_Myself_-_Patrick_Patrikios.mp3",
     "moods": [
-      "dark",
-      "epic",
-      "dramatic",
-      "foreboding"
+      "ambient",
+      "atmospheric"
     ],
-    "source": "web search"
-  },
-  {
-    "filename": "LEminenza_Oscura_II.mp3",
-    "moods": [
-      "dark",
-      "epic",
-      "intense",
-      "urgent"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "LG_Orbifold_-_Half-Life_2_OST.mp3",
-    "moods": [
-      "intense",
-      "urgent",
-      "chaotic"
-    ],
-    "source": "web search"
+    "source": "local audio analysis"
   },
   {
     "filename": "Lab_Practicum_-_Half-Life_2_OST.mp3",
@@ -1422,6 +2177,16 @@
       "mysterious",
       "ambient",
       "contemplative"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "larch_-_whitepine_OST.mp3",
+    "moods": [
+      "serene",
+      "atmospheric",
+      "calm",
+      "natural"
     ],
     "source": "web search"
   },
@@ -1465,6 +2230,16 @@
     "source": "web search"
   },
   {
+    "filename": "Lectrohaus_-_Zolister.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Legend_of_Zelda_Remix_Lost_Memories_Sacred_Grove.mp3",
     "moods": [
       "nostalgic",
@@ -1473,6 +2248,43 @@
       "mysterious"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "LEminenza_Oscura_I.mp3",
+    "moods": [
+      "dark",
+      "epic",
+      "dramatic",
+      "foreboding"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "LEminenza_Oscura_II.mp3",
+    "moods": [
+      "dark",
+      "epic",
+      "intense",
+      "urgent"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "LG_Orbifold_-_Half-Life_2_OST.mp3",
+    "moods": [
+      "intense",
+      "urgent",
+      "chaotic"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Life_After_Death_-_DJ_Freedem.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Light_of_the_Worlds_Fanmade_KH_final_battle_theme.mp3",
@@ -1505,6 +2317,26 @@
     "source": "web search"
   },
   {
+    "filename": "local forecast - kevin macleod.mp3",
+    "moods": [
+      "upbeat",
+      "jazzy",
+      "energetic",
+      "sprightly",
+      "danceable"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Louder_Choir_Peice_-_Deadlox.mp3",
+    "moods": [
+      "calm",
+      "peaceful",
+      "slow"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Love_as_a_Construct.mp3",
     "moods": [
       "beautiful",
@@ -1522,6 +2354,15 @@
       "precise"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Magical_Forest_-_Sir_Cubworth.mp3",
+    "moods": [
+      "calm",
+      "peaceful",
+      "slow"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Main_Menu_5_Steamworks_-_Undertale_Yellow_OST.mp3",
@@ -1542,6 +2383,14 @@
       "driving"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Meet__Fun_-_Ofshane.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Menu_-_Cooking_Mama_4_Kitchen_Magic_OST.mp3",
@@ -1583,6 +2432,14 @@
     "source": "web search"
   },
   {
+    "filename": "meticulous_-_ivory.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Mining_Co-ncussion.mp3",
     "moods": [
       "percussive",
@@ -1603,6 +2460,61 @@
     "source": "web search"
   },
   {
+    "filename": "Missing_Persons_-_Jeremy_Blake.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Modern_Attempt_-_TrackTribe.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "dynamic",
+      "expressive"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Modern_Time_-_An_Jone.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "mountain_ash.mp3",
+    "moods": [
+      "serene",
+      "natural",
+      "peaceful",
+      "gentle"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "mountain_ash_reprise.mp3",
+    "moods": [
+      "peaceful",
+      "gentle",
+      "reflective",
+      "warm"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "move like this - jules gaia.mp3",
+    "moods": [
+      "energetic",
+      "upbeat",
+      "groovy"
+    ],
+    "source": "filename inference"
+  },
+  {
     "filename": "Music_of_Fours_3D_Hand_Full_BfB_theme.mp3",
     "moods": [
       "synthwave",
@@ -1611,6 +2523,66 @@
       "dramatic"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Mysterious_Strange_Things_-_Yung_Logos.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Never_Gonna_Give_You_Up_-_Rick_Astley.mp3",
+    "moods": [
+      "happy",
+      "energetic",
+      "fun"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "New_World_-_rjytofficial.mp3",
+    "moods": [
+      "adventure",
+      "inspiring",
+      "epic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "New_Day_-_Patrick_Patrikios.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Night_Run_Away_-_An_Jone.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Nightmares_Inn_-_RKVC.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "No_Where_To_Run_-_99boba.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Nooks_Cranny_-_Animal_Crossing_City_Folk_OST.mp3",
@@ -1653,6 +2625,22 @@
     "source": "web search"
   },
   {
+    "filename": "oh what a whirl - jules gaia.mp3",
+    "moods": [
+      "energetic",
+      "upbeat"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Oh_My_-_Patrick_Patrikios.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "OldBuilders_A.mp3",
     "moods": [
       "ancient",
@@ -1663,7 +2651,7 @@
     "source": "web search"
   },
   {
-    "filename": "OldBuilders_B.mp3",
+    "filename": "OldBuilders_B_-_Minecraft_Story_Mode_OST.mp3",
     "moods": [
       "ancient",
       "mysterious",
@@ -1713,6 +2701,22 @@
     "source": "web search"
   },
   {
+    "filename": "On_The_Case_-_Sir_Cubworth.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "On_The_Hunt_-_Andrew_Langdon.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Ones_Past..._-_Undertale_Yellow_OST.mp3",
     "moods": [
       "melancholic",
@@ -1721,6 +2725,15 @@
       "heavy"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "orange marmalade.mp3",
+    "moods": [
+      "playful",
+      "happy",
+      "fun"
+    ],
+    "source": "filename inference"
   },
   {
     "filename": "Phineas_and_Ferb_-_Candace_Theme.mp3",
@@ -1733,6 +2746,62 @@
     "source": "web search"
   },
   {
+    "filename": "playboi carti x yeat type beat - black.mp3",
+    "moods": [
+      "modern",
+      "trap",
+      "dark",
+      "intense"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "playboi carti x yeat type beat - enough.mp3",
+    "moods": [
+      "modern",
+      "trap",
+      "energetic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "playboi carti x yeat type beat - explosion.mp3",
+    "moods": [
+      "modern",
+      "trap",
+      "intense",
+      "aggressive"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "playboi carti x yeat type beat - prey.mp3",
+    "moods": [
+      "modern",
+      "trap",
+      "aggressive"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "playboi carti x yeat type beat - sega+.mp3",
+    "moods": [
+      "modern",
+      "trap",
+      "energetic"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "playboi carti x yeat type beat - shädöw.mp3",
+    "moods": [
+      "modern",
+      "trap",
+      "intense"
+    ],
+    "source": "filename inference"
+  },
+  {
     "filename": "Plot_Twist_10_Song.mp3",
     "moods": [
       "emotional",
@@ -1741,6 +2810,25 @@
       "pop"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Poisoned_Rose_-_Aakash_Gandhi.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "dynamic",
+      "expressive"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "popcorn castle.mp3",
+    "moods": [
+      "playful",
+      "happy",
+      "whimsical"
+    ],
+    "source": "filename inference"
   },
   {
     "filename": "Portal_2_OST_The_Reunion.mp3",
@@ -1761,6 +2849,14 @@
     "source": "web search"
   },
   {
+    "filename": "Psychic_Magic_-_Unicorn_Heads.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Psychophant_-_Ivory.mp3",
     "moods": [
       "intense",
@@ -1771,7 +2867,26 @@
     "source": "web search"
   },
   {
-    "filename": "Rage_Awakened_BBS_ver.mp3",
+    "filename": "qbedwars music.mp3",
+    "moods": [
+      "gaming",
+      "intense",
+      "action"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "quo vadis.mp3",
+    "moods": [
+      "classic",
+      "dramatic",
+      "epic",
+      "oratorio"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Rage_Awakened_The_Origin_-_Kingdom_Hearts_BBS_OST.mp3",
     "moods": [
       "epic",
       "intense",
@@ -1812,6 +2927,40 @@
     "source": "web search"
   },
   {
+    "filename": "Riding_Into_The_Sun_-_Telecasted.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Ritual_Cathedral_-_Sir_Cubworth.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "River_City_-_DJ_Williams.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Rock_Song_-_Deadlox.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Rude_Buster.mp3",
     "moods": [
       "punchy",
@@ -1832,12 +2981,13 @@
     "source": "web search"
   },
   {
-    "filename": "SPOILER_Caroline_Deleted.mp3",
+    "filename": "run fast instrumental.mp3",
     "moods": [
-      "bittersweet",
-      "cathartic",
-      "reflective",
-      "melancholic"
+      "energetic",
+      "action",
+      "upbeat",
+      "motivational",
+      "intense"
     ],
     "source": "web search"
   },
@@ -1862,6 +3012,14 @@
     "source": "web search"
   },
   {
+    "filename": "Savior_-_Telecasted.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Say_Apple_Unused.mp3",
     "moods": [
       "quirky",
@@ -1870,6 +3028,66 @@
       "whimsical"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "scatter_-_ivory.mp3",
+    "moods": [
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Sci-Fi_Swamp_Chase_-_Sir_Cubworth.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Science_Montage_-_Jeremy_Blake.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "shake down - jules gaia.mp3",
+    "moods": [
+      "energetic",
+      "driving"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "Sharp_Edges_-_half.cool.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Sick_ass_song._Deadlox.mp3",
+    "moods": [
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Skeleton_Dance_-_Myuu.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "dynamic",
+      "expressive"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Sky_Verse_NCS_Release_-_Lieless_Luuna_Yarimov.mp3",
@@ -1912,6 +3130,16 @@
     "source": "web search"
   },
   {
+    "filename": "Smile_-_Slynk.mp3",
+    "moods": [
+      "energetic",
+      "driving",
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Snowdin_Town_Extended.mp3",
     "moods": [
       "cozy",
@@ -1942,6 +3170,14 @@
     "source": "web search"
   },
   {
+    "filename": "so_it_begins_-_ivory.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Solaris_Phase_1.mp3",
     "moods": [
       "epic",
@@ -1960,6 +3196,33 @@
       "peaceful"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Sparkling_Stars_-_rjytofficial.mp3",
+    "moods": [
+      "calm",
+      "dreamy",
+      "relaxing"
+    ],
+    "source": "filename inference"
+  },
+  {
+    "filename": "SPOILER_Caroline_Deleted.mp3",
+    "moods": [
+      "bittersweet",
+      "cathartic",
+      "reflective",
+      "melancholic"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Spy_Suite_-_Quincas_Moreira.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Starfish_-_ivorycello.mp3",
@@ -1982,6 +3245,67 @@
     "source": "web search"
   },
   {
+    "filename": "Stealth_-_Aakash_Gandhi.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "strad.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "subconscious_-_Undertale_Yellow_OST.mp3",
+    "moods": [
+      "eerie",
+      "unsettling",
+      "dreamlike",
+      "creepy"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Swing_House_-_RKVC.mp3",
+    "moods": [
+      "hopeful",
+      "uplifting"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "synced_up_-_ivory.mp3",
+    "moods": [
+      "energetic",
+      "driving"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "synthatiger - beyond the grid.mp3",
+    "moods": [
+      "synthwave",
+      "electronic",
+      "retro",
+      "energetic",
+      "adventure"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Tak_-_Bobby_Richards.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Taking_My_Whole_Life_Tonight_-_Oricade.mp3",
     "moods": [
       "energetic",
@@ -1992,7 +3316,7 @@
     "source": "web search"
   },
   {
-    "filename": "Tears_in_the_Rain.mp3",
+    "filename": "Tears_in_the_Rain_-_Undertale_Cover.mp3",
     "moods": [
       "melancholic",
       "atmospheric",
@@ -2000,6 +3324,14 @@
       "cinematic"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Teasing_the_King_-_Nathan_Moore.mp3",
+    "moods": [
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Technical_Difficulties.mp3",
@@ -2021,6 +3353,16 @@
     "source": "web search"
   },
   {
+    "filename": "TGATG_Webtrack_3_-_Mattia_Cupelli.mp3",
+    "moods": [
+      "dark",
+      "ominous",
+      "haunting",
+      "gothic"
+    ],
+    "source": "web search"
+  },
+  {
     "filename": "The_Arch-Illager.mp3",
     "moods": [
       "menacing",
@@ -2031,12 +3373,48 @@
     "source": "web search"
   },
   {
+    "filename": "The_Awakening_-_Patrick_Patrikios.mp3",
+    "moods": [
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "The_Confrontation_-_Spiral_Knights_OST.mp3",
     "moods": [
       "dramatic",
       "intense",
       "confrontational",
       "urgent"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "The_Darkest_Path_-_Jeremy_Korpas.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "the_diadem_pt.1_-_Ivory.mp3",
+    "moods": [
+      "regal",
+      "mysterious",
+      "grand",
+      "ceremonial"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "the_diadem_pt.2_-_Ivory.mp3",
+    "moods": [
+      "triumphant",
+      "regal",
+      "grand",
+      "celebratory"
     ],
     "source": "web search"
   },
@@ -2051,6 +3429,16 @@
     "source": "web search"
   },
   {
+    "filename": "The_Future_Ancient_Now_-_Nathan_Moore.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "The_Human_Exploit_-_Ivory.mp3",
     "moods": [
       "dark",
@@ -2059,6 +3447,14 @@
       "relentless"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "The_Long_Night_-_Quincas_Moreira.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "The_Love_Of_The_Game_-_Dream_Productions.mp3",
@@ -2127,7 +3523,7 @@
     "source": "web search"
   },
   {
-    "filename": "The_Spire_OST_ver.mp3",
+    "filename": "The_Spire_-_Minecraft_Story_Mode_OST.mp3",
     "moods": [
       "atmospheric",
       "mysterious",
@@ -2146,7 +3542,17 @@
     "source": "web search"
   },
   {
-    "filename": "The_Wardens_Duty_OST_ver.mp3",
+    "filename": "The_Throne_Room_-_Sir_Cubworth.mp3",
+    "moods": [
+      "energetic",
+      "driving",
+      "frantic",
+      "chaotic"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "The_Wardens_Duty_-_Minecraft_Story_Mode_OST.mp3",
     "moods": [
       "determined",
       "heroic",
@@ -2176,12 +3582,46 @@
     "source": "web search"
   },
   {
+    "filename": "This_is_Not_Background_Music_-_True_Cuckoo.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Through_the_Macro_Lens_-_Undertale_Yellow_OST.mp3",
     "moods": [
       "quirky",
       "playful",
       "whimsical",
       "lighthearted"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "tin_-_ivory.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "To_Pass_Time_-_Godmode.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "toad factory - mario kart wii.mp3",
+    "moods": [
+      "classic",
+      "upbeat",
+      "racing",
+      "energetic"
     ],
     "source": "web search"
   },
@@ -2246,6 +3686,14 @@
     "source": "web search"
   },
   {
+    "filename": "Traversing_-_Godmode.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Treading_Lightly_-_Undertale_Yellow_OST.mp3",
     "moods": [
       "tense",
@@ -2308,6 +3756,16 @@
       "quirky"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "trombone_-_Deadlox.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "dynamic",
+      "expressive"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Tumble_-_Agile_Accelerando.mp3",
@@ -2411,6 +3869,16 @@
     "source": "web search"
   },
   {
+    "filename": "Unbreakable_Chains_-_Kingdom_Hearts_III_OST.mp3",
+    "moods": [
+      "passionate",
+      "confrontational",
+      "energetic",
+      "fiery"
+    ],
+    "source": "web search"
+  },
+  {
     "filename": "Undertale_Last_Breath_phase_3_theme.mp3",
     "moods": [
       "dramatic",
@@ -2461,6 +3929,16 @@
     "source": "web search"
   },
   {
+    "filename": "Undertale_OST_sans.mp3",
+    "moods": [
+      "laid-back",
+      "lazy",
+      "jazzy",
+      "chill"
+    ],
+    "source": "web search"
+  },
+  {
     "filename": "Undertale_OST_Snowdin_Town.mp3",
     "moods": [
       "cozy",
@@ -2491,16 +3969,6 @@
     "source": "web search"
   },
   {
-    "filename": "Undertale_OST_sans.mp3",
-    "moods": [
-      "laid-back",
-      "lazy",
-      "jazzy",
-      "chill"
-    ],
-    "source": "web search"
-  },
-  {
     "filename": "Undertale_True_Genocide_ost_Shattered_Dreams.mp3",
     "moods": [
       "haunting",
@@ -2521,6 +3989,33 @@
     "source": "web search"
   },
   {
+    "filename": "unstoppable force.mp3",
+    "moods": [
+      "heroic",
+      "epic",
+      "intense",
+      "driving",
+      "aggressive"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Untitled_2_-_Deadlox.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "upbeat_song_-_Deadlox.mp3",
+    "moods": [
+      "energetic",
+      "driving"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Upon_The_Rock_-_Ivory.mp3",
     "moods": [
       "steadfast",
@@ -2529,6 +4024,33 @@
       "grounded"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "URL_Melt_-_Unicorn_Heads.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Vehicle_Chase_-_Hainbach.mp3",
+    "moods": [
+      "slow",
+      "calm",
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Verdant_Green_Swans_-_The_Electric_Farm.mp3",
+    "moods": [
+      "calm",
+      "relaxing",
+      "ambient"
+    ],
+    "source": "filename inference"
   },
   {
     "filename": "Vs_Chimera_-_Crash_Mind_Over_Mutant_DS_OST.mp3",
@@ -2561,6 +4083,30 @@
     "source": "web search"
   },
   {
+    "filename": "wait.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "Waking_to_Reality_-_Unicorn_Heads.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "ward.mp3",
+    "moods": [
+      "intense",
+      "aggressive"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Warden_Escape_A.mp3",
     "moods": [
       "tense",
@@ -2591,12 +4137,29 @@
     "source": "web search"
   },
   {
-    "filename": "Warden_Escape_C.mp3",
+    "filename": "Warden_Escape_C_-_Minecraft_Story_Mode_OST.mp3",
     "moods": [
       "tense",
       "urgent",
       "frantic",
       "desperate"
+    ],
+    "source": "web search"
+  },
+  {
+    "filename": "Warm_Place_-_99boba.mp3",
+    "moods": [
+      "steady",
+      "mechanical"
+    ],
+    "source": "local audio analysis"
+  },
+  {
+    "filename": "welcome to chaos - ross bugden.mp3",
+    "moods": [
+      "chaotic",
+      "intense",
+      "dark"
     ],
     "source": "web search"
   },
@@ -2611,6 +4174,14 @@
     "source": "web search"
   },
   {
+    "filename": "Western_Song_-_Deadlox.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "Where_Dreams_Die.mp3",
     "moods": [
       "melancholic",
@@ -2619,6 +4190,14 @@
       "desolate"
     ],
     "source": "web search"
+  },
+  {
+    "filename": "Where_We_Wanna_Go_-_Patrick_Patrikios.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Wii_Shopping_Channel_Remix_-_Nicky_Flowers.mp3",
@@ -2631,13 +4210,21 @@
     "source": "web search"
   },
   {
-    "filename": "Windmill Isle - Day.mp3",
+    "filename": "Windmill_Isle_Day_-_Sonic_Unleashed_OST.mp3",
     "moods": [
       "classic",
       "adventure",
       "calm"
     ],
     "source": "filename inference"
+  },
+  {
+    "filename": "YouR_MoM_PiAnO_sOnG_-_Deadlox.mp3",
+    "moods": [
+      "ambient",
+      "atmospheric"
+    ],
+    "source": "local audio analysis"
   },
   {
     "filename": "Your_Precious_Moon.mp3",
@@ -2725,6 +4312,14 @@
     "source": "web search"
   },
   {
+    "filename": "Zombie_March_-_Sir_Cubworth.mp3",
+    "moods": [
+      "slow",
+      "calm"
+    ],
+    "source": "local audio analysis"
+  },
+  {
     "filename": "ZoomPianoHouse_A.mp3",
     "moods": [
       "upbeat",
@@ -2761,604 +4356,6 @@
       "energetic",
       "jazzy",
       "playful"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "a shattered illusion.mp3",
-    "moods": [
-      "dramatic",
-      "emotional",
-      "mysterious"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "ace - verdant green swans.mp3",
-    "moods": [
-      "calm",
-      "relaxing",
-      "ambient"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "action suspense 2.mp3",
-    "moods": [
-      "suspense",
-      "intense",
-      "dramatic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "action suspense.mp3",
-    "moods": [
-      "suspense",
-      "intense",
-      "dramatic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "adventurous.mp3",
-    "moods": [
-      "adventure",
-      "inspiring",
-      "epic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "anthony vega - johnny vespa.mp3",
-    "moods": [
-      "classic",
-      "energetic",
-      "adventure"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "apassionato orchestral dramatic music.mp3",
-    "moods": [
-      "classic",
-      "dramatic",
-      "epic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "at the speed of light.mp3",
-    "moods": [
-      "fast",
-      "energetic",
-      "adventure"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "azali x arcerion - zephaniah.mp3",
-    "moods": [
-      "epic",
-      "intense"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "background music.mp3",
-    "moods": [
-      "ambient",
-      "calm",
-      "relaxing"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "battle against an empire.mp3",
-    "moods": [
-      "epic",
-      "fighting",
-      "dramatic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "battle of birds and pigs.mp3",
-    "moods": [
-      "fighting",
-      "fun",
-      "adventure"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "black mass.mp3",
-    "moods": [
-      "dark",
-      "ominous",
-      "intense"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "blizzard peaks - sonic rush adventure.mp3",
-    "moods": [
-      "adventure",
-      "classic",
-      "energetic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "break free.mp3",
-    "moods": [
-      "epic",
-      "inspiring",
-      "adventure"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "camellia - the world revolving (camellia remix).mp3",
-    "moods": [
-      "intense",
-      "energetic",
-      "electronic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "chaos construct (by azali).mp3",
-    "moods": [
-      "chaotic",
-      "intense",
-      "dark"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "chased by fate.mp3",
-    "moods": [
-      "suspense",
-      "intense",
-      "dramatic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "cjbeards - fire and thunder.mp3",
-    "moods": [
-      "epic",
-      "intense",
-      "dramatic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "clovek_-_ivorycello.mp3",
-    "moods": [
-      "mysterious",
-      "atmospheric",
-      "brooding"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "corneria.mp3",
-    "moods": [
-      "classic",
-      "adventure",
-      "upbeat"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "deep in the forest.mp3",
-    "moods": [
-      "adventure",
-      "calm",
-      "mysterious"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "deer immaterial anbr adrian berenguer.mp3",
-    "moods": [
-      "calm",
-      "relaxing",
-      "ambient"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "defun_botsbuildbots__botsbuildbots.mp3",
-    "moods": [
-      "chaotic",
-      "mechanical",
-      "whimsical",
-      "frantic"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "defun_botsbuildbots__botsbuildbots_In_game_ver.mp3",
-    "moods": [
-      "chaotic",
-      "mechanical",
-      "whimsical",
-      "frantic"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "dragon castle___makai symphony - dragon castle_ is under a creative commons (by-nc 3.0) license_ @makai-symphony   music powered by breakingcopyright_    \u2022 \ud83d\udd25 epic battle music .mp3",
-    "moods": [
-      "epic",
-      "fighting",
-      "intense",
-      "orchestral"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "dramatic violin.mp3",
-    "moods": [
-      "dramatic",
-      "intense",
-      "emotional"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "end of a long journey.mp3",
-    "moods": [
-      "adventure",
-      "emotional",
-      "reflective"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "happy energetic boogie fun.mp3",
-    "moods": [
-      "happy",
-      "energetic",
-      "fun",
-      "playful",
-      "bouncy"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "haunted mansion.mp3",
-    "moods": [
-      "spooky",
-      "mysterious",
-      "eerie",
-      "adventure"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "hope_instilled_-_Ivory.mp3",
-    "moods": [
-      "hopeful",
-      "uplifting",
-      "inspiring",
-      "bright"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "iby - dj b-duke.mp3",
-    "moods": [
-      "electronic",
-      "energetic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "infraction - atlas.mp3",
-    "moods": [
-      "epic",
-      "cinematic",
-      "intense"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "journey through the woods.mp3",
-    "moods": [
-      "adventure",
-      "calm",
-      "mysterious"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "king pig and his manic minions.mp3",
-    "moods": [
-      "intense",
-      "fun",
-      "adventure"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "larch_-_whitepine_OST.mp3",
-    "moods": [
-      "serene",
-      "atmospheric",
-      "calm",
-      "natural"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "local forecast - kevin macleod.mp3",
-    "moods": [
-      "upbeat",
-      "jazzy",
-      "energetic",
-      "sprightly",
-      "danceable"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "mountain_ash.mp3",
-    "moods": [
-      "serene",
-      "natural",
-      "peaceful",
-      "gentle"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "mountain_ash_reprise.mp3",
-    "moods": [
-      "peaceful",
-      "gentle",
-      "reflective",
-      "warm"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "move like this - jules gaia.mp3",
-    "moods": [
-      "energetic",
-      "upbeat",
-      "groovy"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "new world.mp3",
-    "moods": [
-      "adventure",
-      "inspiring",
-      "epic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "oh what a whirl - jules gaia.mp3",
-    "moods": [
-      "energetic",
-      "upbeat"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "orange marmalade.mp3",
-    "moods": [
-      "playful",
-      "happy",
-      "fun"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "playboi carti x yeat type beat - black.mp3",
-    "moods": [
-      "modern",
-      "trap",
-      "dark",
-      "intense"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "playboi carti x yeat type beat - enough.mp3",
-    "moods": [
-      "modern",
-      "trap",
-      "energetic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "playboi carti x yeat type beat - explosion.mp3",
-    "moods": [
-      "modern",
-      "trap",
-      "intense",
-      "aggressive"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "playboi carti x yeat type beat - prey.mp3",
-    "moods": [
-      "modern",
-      "trap",
-      "aggressive"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "playboi carti x yeat type beat - sega+.mp3",
-    "moods": [
-      "modern",
-      "trap",
-      "energetic"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "playboi carti x yeat type beat - sh\u00e4d\u00f6w.mp3",
-    "moods": [
-      "modern",
-      "trap",
-      "intense"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "popcorn castle.mp3",
-    "moods": [
-      "playful",
-      "happy",
-      "whimsical"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "qbedwars music.mp3",
-    "moods": [
-      "gaming",
-      "intense",
-      "action"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "quo vadis.mp3",
-    "moods": [
-      "classic",
-      "dramatic",
-      "epic",
-      "oratorio"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "run fast instrumental.mp3",
-    "moods": [
-      "energetic",
-      "action",
-      "upbeat",
-      "motivational",
-      "intense"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "shake down - jules gaia.mp3",
-    "moods": [
-      "energetic",
-      "driving"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "sparkling stars.mp3",
-    "moods": [
-      "calm",
-      "dreamy",
-      "relaxing"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "subconscious_-_Undertale_Yellow_OST.mp3",
-    "moods": [
-      "eerie",
-      "unsettling",
-      "dreamlike",
-      "creepy"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "synthatiger - beyond the grid.mp3",
-    "moods": [
-      "synthwave",
-      "electronic",
-      "retro",
-      "energetic",
-      "adventure"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "the_diadem_pt.1_-_Ivory.mp3",
-    "moods": [
-      "regal",
-      "mysterious",
-      "grand",
-      "ceremonial"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "the_diadem_pt.2_-_Ivory.mp3",
-    "moods": [
-      "triumphant",
-      "regal",
-      "grand",
-      "celebratory"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "toad factory - mario kart wii.mp3",
-    "moods": [
-      "classic",
-      "upbeat",
-      "racing",
-      "energetic"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "totally not a rickroll.mp3",
-    "moods": [
-      "happy",
-      "energetic",
-      "fun"
-    ],
-    "source": "filename inference"
-  },
-  {
-    "filename": "undertale ost spear of justice.mp3",
-    "moods": [
-      "fighting",
-      "energetic",
-      "boss battle",
-      "powerful"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "unstoppable force.mp3",
-    "moods": [
-      "heroic",
-      "epic",
-      "intense",
-      "driving",
-      "aggressive"
-    ],
-    "source": "web search"
-  },
-  {
-    "filename": "welcome to chaos - ross bugden.mp3",
-    "moods": [
-      "chaotic",
-      "intense",
-      "dark"
     ],
     "source": "web search"
   }
